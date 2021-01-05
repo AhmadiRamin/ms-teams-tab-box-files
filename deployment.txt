@@ -1,0 +1,17 @@
+Resource group
+
+App registration
+
+Azure functions
+-configuration
+-cors
+-identity
+
+Key vault
+
+appinv
+
+give service account access to the dms config site
+
+63ae8c0b-8dce-4318-9c00-a0af6cb378b5
+c8b924a9-8413-4ccf-9628-9985a47adfdd
